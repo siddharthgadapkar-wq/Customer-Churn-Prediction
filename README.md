@@ -50,7 +50,7 @@ Best Parameters:
 
 2. Kernel: Linear
 
-3.Gamma: Scale
+3. Gamma: Scale
 
 
 📊 Final Results
