@@ -71,25 +71,38 @@ Metric	Score
 💡 Key Learning
 
 Through this project, I learned how to build an end-to-end Machine Learning classification project, including:
-Data preprocessing
-EDA
-Feature encoding
-Feature scaling
-SVM classification
-Cross-validation
-Hyperparameter tuning
-Model evaluation
-ML Pipeline
-Model saving and loading
+* Data preprocessing
+
+* EDA
+
+*Feature encoding
+
+*Feature scaling
+
+*SVM classification
+
+*Cross-validation
+
+*Hyperparameter tuning
+
+*Model evaluation
+
+*ML Pipeline
+
+*Model saving and loading
 
 📁 Project Files
 
 Customer_Churn_Prediction.ipynb — Complete Jupyter Notebook containing the analysis, model building, evaluation, and results.
+
 README.md
 
 🚀 Future Improvements
 
 Feature engineering
+
 Compare multiple classification algorithms
+
 Improve churn recall
+
 Deploy the model using a REST API
