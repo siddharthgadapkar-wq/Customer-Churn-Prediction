@@ -40,8 +40,7 @@ Pipeline Creation
 Final Model Evaluation
 
 
-🤖 Machine Learning Model
-I used Support Vector Machine (SVM) for binary classification.
+🤖 Machine Learning Model : I used Support Vector Machine (SVM) for binary classification.
 
 GridSearchCV was used to tune the model hyperparameters.
 
