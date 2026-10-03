@@ -102,10 +102,10 @@ README.md
 
 🚀 Future Improvements
 
-Feature engineering
+- Feature engineering
 
-Compare multiple classification algorithms
+- Compare multiple classification algorithms
 
-Improve churn recall
+- Improve churn recall
 
-Deploy the model using a REST API
+- Deploy the model using a REST API
