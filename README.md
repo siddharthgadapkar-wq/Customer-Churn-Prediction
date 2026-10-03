@@ -1,17 +1,13 @@
 Customer Churn Prediction
 
 📌 Overview
+
 This project predicts whether a customer is likely to churn (leave the company) using Machine Learning.
 The project follows an end-to-end Machine Learning workflow, from data preprocessing and EDA to model training, evaluation, hyperparameter tuning, and model saving.
 
-🛠️ Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
-Jupyter Notebook
+
+🛠️ Technologies Used: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook
+
 
 🔄 Project Workflow
 
@@ -43,6 +39,7 @@ Pipeline Creation
         |
 Final Model Evaluation
 
+
 🤖 Machine Learning Model
 I used Support Vector Machine (SVM) for binary classification.
 
@@ -56,10 +53,11 @@ Best Parameters:
 
 3.Gamma: Scale
 
+
 📊 Final Results
 
 The final model was evaluated on unseen test data.
-Metric	Score
+Metric	Score :
 
 1. Accuracy : 78.85%
 
@@ -70,6 +68,7 @@ Metric	Score
 4. Churn F1-Score	: 57%
 
 5. ROC-AUC :	82.62%
+
 
 💡 Key Learning
 
@@ -94,11 +93,13 @@ Through this project, I learned how to build an end-to-end Machine Learning clas
 
 * Model saving and loading
 
+
 📁 Project Files
 
 Customer_Churn_Prediction.ipynb — Complete Jupyter Notebook containing the analysis, model building, evaluation, and results.
 
 README.md
+
 
 🚀 Future Improvements
 
