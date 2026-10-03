@@ -16,31 +16,31 @@ Jupyter Notebook
 🔄 Project Workflow
 
 Problem Understanding
-
+        |
 Data Understanding
-
+        |
 Data Cleaning
-
+        |
 Exploratory Data Analysis (EDA)
-
+        |
 Handling Missing Values
-
+        |
 Categorical Encoding
-
+        |
 Train-Test Split
-
+        |
 Feature Scaling
-
+        |
 SVM Model Training
-
+        |
 Model Evaluation
-
+        |
 Cross-Validation
-
+        |
 Hyperparameter Tuning using GridSearchCV
-
+        |
 Pipeline Creation
-
+        |
 Final Model Evaluation
 
 🤖 Machine Learning Model
@@ -48,10 +48,13 @@ I used Support Vector Machine (SVM) for binary classification.
 
 GridSearchCV was used to tune the model hyperparameters.
 
-Best Parameters
-C: 0.1
-Kernel: Linear
-Gamma: Scale
+Best Parameters:
+
+1. C: 0.1
+
+2. Kernel: Linear
+
+3.Gamma: Scale
 
 📊 Final Results
 
@@ -75,21 +78,21 @@ Through this project, I learned how to build an end-to-end Machine Learning clas
 
 * EDA
 
-*Feature encoding
+* Feature encoding
 
-*Feature scaling
+* Feature scaling
 
-*SVM classification
+* SVM classification
 
-*Cross-validation
+* Cross-validation
 
-*Hyperparameter tuning
+* Hyperparameter tuning
 
-*Model evaluation
+* Model evaluation
 
-*ML Pipeline
+* ML Pipeline
 
-*Model saving and loading
+* Model saving and loading
 
 📁 Project Files
 
