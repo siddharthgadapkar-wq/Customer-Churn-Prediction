@@ -47,21 +47,29 @@ Final Model Evaluation
 I used Support Vector Machine (SVM) for binary classification.
 
 GridSearchCV was used to tune the model hyperparameters.
+
 Best Parameters
 C: 0.1
 Kernel: Linear
 Gamma: Scale
 
 📊 Final Results
+
 The final model was evaluated on unseen test data.
 Metric	Score
-Accuracy : 78.85%
-Churn Precision :	62%
-Churn Recall : 53%
-Churn F1-Score	: 57%
-ROC-AUC :	82.62%
+
+1. Accuracy : 78.85%
+
+2. Churn Precision :	62%
+
+3. Churn Recall : 53%
+
+4. Churn F1-Score	: 57%
+
+5. ROC-AUC :	82.62%
 
 💡 Key Learning
+
 Through this project, I learned how to build an end-to-end Machine Learning classification project, including:
 Data preprocessing
 EDA
@@ -75,9 +83,12 @@ ML Pipeline
 Model saving and loading
 
 📁 Project Files
+
 Customer_Churn_Prediction.ipynb — Complete Jupyter Notebook containing the analysis, model building, evaluation, and results.
+README.md
 
 🚀 Future Improvements
+
 Feature engineering
 Compare multiple classification algorithms
 Improve churn recall
