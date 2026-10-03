@@ -1,4 +1,5 @@
 Customer Churn Prediction
+
 📌 Overview
 This project predicts whether a customer is likely to churn (leave the company) using Machine Learning.
 The project follows an end-to-end Machine Learning workflow, from data preprocessing and EDA to model training, evaluation, hyperparameter tuning, and model saving.
@@ -11,6 +12,7 @@ Matplotlib
 Seaborn
 Scikit-learn
 Jupyter Notebook
+
 🔄 Project Workflow
 Problem Understanding
 Data Understanding
