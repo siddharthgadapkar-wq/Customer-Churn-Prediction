@@ -14,19 +14,33 @@ Scikit-learn
 Jupyter Notebook
 
 🔄 Project Workflow
+
 Problem Understanding
+
 Data Understanding
+
 Data Cleaning
+
 Exploratory Data Analysis (EDA)
+
 Handling Missing Values
+
 Categorical Encoding
+
 Train-Test Split
+
 Feature Scaling
+
 SVM Model Training
+
 Model Evaluation
+
 Cross-Validation
+
 Hyperparameter Tuning using GridSearchCV
+
 Pipeline Creation
+
 Final Model Evaluation
 
 🤖 Machine Learning Model
